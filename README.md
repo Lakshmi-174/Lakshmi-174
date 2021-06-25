@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmi-174" alt="lakshmi-174" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/im_luckyy" target="blank"><img src="https://img.shields.io/twitter/follow/im_luckyy?logo=twitter&style=for-the-badge" alt="im_luckyy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/im__luckyy" target="blank"><img src="https://img.shields.io/twitter/follow/im_luckyy?logo=twitter&style=for-the-badge" alt="im_luckyy" /></a> </p>
 
 - 🌱 I’m currently learning **front-end development and machine learning techniques**
 
